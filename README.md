@@ -129,9 +129,5 @@ Gyarados used Hydro Pump! Pikachu HP is now 60
     GitHub: <a href="https://github.com/k-vaghela-111" target="_blank">k-vaghela-111</a></p>
   </div>
 
-  <div class="footer">
-    © 2025 Karmrajsinh Vaghela. All rights reserved.
-  </div>
-
 </body>
 </html>
